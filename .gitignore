@@ -28,8 +28,6 @@ index.html
 package-lock.json
 package.json
 postcss.config.js
-public/
-src/
 tailwind.config.js
 vite.config.js
 
